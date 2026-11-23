@@ -30,6 +30,7 @@ namespace MusicPlaylist
             catch (Exception ex)
             {
                 Console.WriteLine("An error occurred: " + ex.Message);
+                // hello
             }
         }
         public Form1()
